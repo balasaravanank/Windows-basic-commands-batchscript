@@ -85,7 +85,8 @@ Remove the file hello1.txt
 rm hello1.txt
 
 ```
-![image](https://github.com/user-attachments/assets/10ca6b1b-93fd-4c13-a0e7-b370317f83c3)
+<img width="383" height="26" alt="Screenshot from 2025-11-02 18-43-44" src="https://github.com/user-attachments/assets/98a81afc-a87a-49d7-ba1b-7d168a94cebc" />
+
 
 
 
@@ -96,7 +97,8 @@ List out the file hello1.txt in the current directory
 ls hello1.txt
 
 ```
-![image](https://github.com/user-attachments/assets/c8bb2dd5-a93a-4920-a9ea-19eb22602774)
+<img width="595" height="47" alt="Screenshot from 2025-11-02 18-43-57" src="https://github.com/user-attachments/assets/e1d16270-4335-46af-a588-b6801f8356d4" />
+
 
 
 
@@ -107,8 +109,8 @@ List out all the associated file extensions
 ls | awk -F. 'NF>1 {print $NF}' | sort | uniq
 
 ```
-![image](https://github.com/user-attachments/assets/d64dfbef-81d2-4d65-94f7-0eaf634607aa)
 
+<img width="682" height="97" alt="Screenshot from 2025-11-02 18-44-06" src="https://github.com/user-attachments/assets/b915d588-f579-46fc-a6b1-6a4b853878ac" />
 
 
 Compare the file hello.txt and rose.txt
@@ -118,7 +120,7 @@ Compare the file hello.txt and rose.txt
 diff hello.txt rose.txt
 
 ```
-![image](https://github.com/user-attachments/assets/577b5b04-e170-4ac1-a79f-a049a73fed4e)
+<img width="682" height="28" alt="Screenshot from 2025-11-02 18-45-58" src="https://github.com/user-attachments/assets/878b6911-4de2-4fbd-a0c3-54fa9035bab5" />
 
 
 ## Exercise 2: Advanced Batch Scripting
