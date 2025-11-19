@@ -28,7 +28,8 @@ Create a directory named "my-folder"
 ```
 mkdir my-folder
 ```
-<img width="381" height="38" alt="Screenshot from 2025-11-02 18-35-48" src="https://github.com/user-attachments/assets/c6b437ef-0376-486a-8f4a-83f9cfde0508" />
+<img width="987" height="177" alt="Screenshot 2025-11-19 223610" src="https://github.com/user-attachments/assets/1d5b0959-6a7d-4356-a6c1-6da8a3774fdd" />
+
 
 
 
@@ -39,7 +40,8 @@ Remove the directory "my-folder"
 rmdir my-folder
 ```
 
-<img width="381" height="38" alt="Screenshot from 2025-11-02 18-36-10" src="https://github.com/user-attachments/assets/480b0632-f392-4a48-9970-22b38ab7d482" />
+<img width="1053" height="105" alt="image" src="https://github.com/user-attachments/assets/26cfdeca-3d12-479a-8f43-ecd440564648" />
+
 
 
 Create the file Rose.txt
@@ -49,7 +51,8 @@ Create the file Rose.txt
 touch Rose.txt
 ```
 
-<img width="381" height="38" alt="Screenshot from 2025-11-02 18-36-26" src="https://github.com/user-attachments/assets/dc23d186-0a07-467c-99b1-8a8ca29c6fb0" />
+<img width="1212" height="635" alt="Screenshot 2025-11-19 223736" src="https://github.com/user-attachments/assets/53cc19e4-8fdd-4acc-a5be-459ff51b078d" />
+
 
 
 
@@ -61,7 +64,8 @@ Create the file hello.txt using echo and redirection
 echo "Hello, world!" > hello.txt
 
 ```
-<img width="557" height="40" alt="Screenshot from 2025-11-02 18-36-45" src="https://github.com/user-attachments/assets/f0b15263-f7ca-460d-b975-ae25b4bea9cc" />
+<img width="1345" height="212" alt="Screenshot 2025-11-19 223808" src="https://github.com/user-attachments/assets/d813ae3b-acd5-4392-8acf-5f0e0a2427ce" />
+
 
 
 
@@ -73,7 +77,8 @@ Copy the file hello.txt into the file hello1.txt
 cp hello.txt hello1.txt
 
 ```
-<img width="461" height="36" alt="Screenshot from 2025-11-02 18-37-12" src="https://github.com/user-attachments/assets/5930ea45-bae9-4c65-8f87-09c3289a720a" />
+<img width="1226" height="255" alt="Screenshot 2025-11-19 223853" src="https://github.com/user-attachments/assets/b1cc9830-f753-409c-8042-7e3fb1fac5a6" />
+
 
 
 
@@ -85,7 +90,8 @@ Remove the file hello1.txt
 rm hello1.txt
 
 ```
-<img width="383" height="26" alt="Screenshot from 2025-11-02 18-43-44" src="https://github.com/user-attachments/assets/98a81afc-a87a-49d7-ba1b-7d168a94cebc" />
+<img width="1018" height="459" alt="Screenshot 2025-11-19 223942" src="https://github.com/user-attachments/assets/1d4adffc-4319-45e3-8216-add12e86fa13" />
+
 
 
 
@@ -97,7 +103,9 @@ List out the file hello1.txt in the current directory
 ls hello1.txt
 
 ```
-<img width="595" height="47" alt="Screenshot from 2025-11-02 18-43-57" src="https://github.com/user-attachments/assets/e1d16270-4335-46af-a588-b6801f8356d4" />
+<img width="1018" height="370" alt="image" src="https://github.com/user-attachments/assets/d0fe3e17-edb5-4e88-a3a1-d0f74bdc13ae" />
+
+
 
 
 
@@ -105,22 +113,15 @@ ls hello1.txt
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-```
-ls | awk -F. 'NF>1 {print $NF}' | sort | uniq
+<img width="1045" height="1478" alt="Screenshot 2025-11-19 224028" src="https://github.com/user-attachments/assets/9f7ba698-05bd-4964-822f-bd66b52c0350" />
 
-```
 
-<img width="682" height="97" alt="Screenshot from 2025-11-02 18-44-06" src="https://github.com/user-attachments/assets/b915d588-f579-46fc-a6b1-6a4b853878ac" />
 
 
 Compare the file hello.txt and rose.txt
-
 ## COMMAND AND OUTPUT
-```
-diff hello.txt rose.txt
 
-```
-<img width="682" height="28" alt="Screenshot from 2025-11-02 18-45-58" src="https://github.com/user-attachments/assets/878b6911-4de2-4fbd-a0c3-54fa9035bab5" />
+<img width="1111" height="343" alt="Screenshot 2025-11-19 224103" src="https://github.com/user-attachments/assets/79e000a5-048a-4e44-9dea-65b97c5c35b8" />
 
 
 ## Exercise 2: Advanced Batch Scripting
