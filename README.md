@@ -134,7 +134,8 @@ pause
 
 ## OUTPUT
 
-![446613954-622c36c5-7d20-4b1d-b8b3-68de92794b95](https://github.com/user-attachments/assets/b0d30662-7b6a-4dd9-97c3-d623922e89e7)
+<img width="770" height="233" alt="image" src="https://github.com/user-attachments/assets/ffd0bbb4-2bd0-4cf8-8ab8-9b4488d76d02" />
+
 
 
 
@@ -168,8 +169,8 @@ echo Thank you for using the odd number checker!
 pause
 ```
 ## OUTPUT
+<img width="1076" height="549" alt="image" src="https://github.com/user-attachments/assets/e2dee31a-4527-466b-8de3-d24626f2b0f0" />
 
-![446614152-e2c35a3f-6bff-4d53-8042-362d49fb66df](https://github.com/user-attachments/assets/ace255f4-36a0-474e-a82e-8f1db77a78f1)
 
 
 
@@ -185,7 +186,8 @@ pause
 
 ## OUTPUT
 
-![446614184-2c6dabf6-e7af-4746-a3c6-71fc27136738](https://github.com/user-attachments/assets/c46bc8b5-2112-4474-a236-3825ab2ae0ba)
+<img width="820" height="392" alt="image" src="https://github.com/user-attachments/assets/3210184e-71d7-4142-94a6-678553da5e35" />
+
 
 
 
@@ -206,7 +208,7 @@ if exist sample.txt (
 pause
 ```
 ## OUTPUT
-![446614375-bad7f7e1-c558-41ed-8d1e-2ba09aa01bf0](https://github.com/user-attachments/assets/3198941e-be44-41f0-aa52-5cecdfff0593)
+<img width="792" height="234" alt="image" src="https://github.com/user-attachments/assets/8841ec57-82bd-445b-9a9a-e02e987de110" />
 
 
 
@@ -241,7 +243,7 @@ pause
 ```
 ## OUTPUT
 
-![446614566-f5d65f7c-a5d2-4f82-902d-ddd6d52138ef](https://github.com/user-attachments/assets/7a581e8a-45c9-4f95-9ea2-2f1842572b96)
+<img width="776" height="867" alt="image" src="https://github.com/user-attachments/assets/e3f63183-82fe-4388-922e-fff48d3ea295" />
 
 
 # RESULT:
